@@ -44,6 +44,9 @@
   <a href="https://www.linkedin.com/in/javier-aday-p%C3%A9rez-romero-b5636a291/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://www.credly.com/users/javier-perez-romero" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Credly&logo=credly&label=&color=#ff6a00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="credly logo"  />
+  </a>
   <a href="https://cocodrulo.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=web&label=&color=00A0F0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  />
   </a>
